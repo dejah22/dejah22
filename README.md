@@ -19,5 +19,3 @@ Here are some ideas to get you started:
   ➗ I like to build crazy pretty UI and working with ML, Math and Stats. Oh, and i sometimes write.
   
   👯 Would love to collaborate if you got something cool :)
-  
-![Follow](https://img.shields.io/github/followers/{dejah22}.svg?style=social&label=Follow&maxAge=2592000)
