@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Dejah 👋
 
 <!--
 **dejah22/dejah22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  I'm an undergraduate Computer Science student @ SSN College of Engineering, and this girl loves being math and code-smart.
+  
+  ➗I like to build crazy pretty UI and working with ML, Math and Stats. Oh, and i sometimes write.
+  
+ 👯 Would love to collaborate if you got something cool :)
+  
