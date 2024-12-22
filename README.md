@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  I'm an undergraduate Computer Science student @ SSN College of Engineering, and this girl loves being math and code-smart.
+  👧🏼 I'm an undergraduate Computer Science student @ SSN College of Engineering, and this girl loves being math and code-smart.
   
-  ➗I like to build crazy pretty UI and working with ML, Math and Stats. Oh, and i sometimes write.
+  ➗ I like to build crazy pretty UI and working with ML, Math and Stats. Oh, and i sometimes write.
   
- 👯 Would love to collaborate if you got something cool :)
+  👯 Would love to collaborate if you got something cool :)
   
+![Follow](https://img.shields.io/github/followers/{dejah22}.svg?style=social&label=Follow&maxAge=2592000)
